@@ -1,0 +1,5 @@
+/biggest number/
+cat numbers.txt | sort -n | tail -1
+
+/smallest number/
+cat numbers.txt | sort -n | tail -1
